@@ -4,7 +4,7 @@ const Input = require('../lib/input.js');
 
 describe('Input Module', ()=> {
 
-    it('validation() defaults to -a when there is no method or invalid', ()=> {
+    it('validation()  there is no method or invalid', ()=> {
         let validMethod = new Input();
         expect(validMethod.validation('wrongMethod')).toEqual('wrong input');
 
