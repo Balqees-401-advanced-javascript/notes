@@ -9,8 +9,7 @@ const DB_URI = 'mongodb://localhost:27017/save';
 
 // for error things
 mongoose.connect(DB_URI,{
-    userNewUrlParse: true, 
-    useUnifiedTopology: true
+    useNewUrlParser: true, useUnifiedTopology: true
 });
 
 
