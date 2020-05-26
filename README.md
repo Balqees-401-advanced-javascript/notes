@@ -8,13 +8,6 @@
 
 - [submission PR](https://github.com/Balqees-401-advanced-javascript/notes/pull/1)
 
-#### Documentation 
-
-- [jsdoc](https://balqees-lab00.herokuapp.com/docs/)
-
-
-
-
 
 #### How to initialize/run your application 
       
@@ -24,4 +17,4 @@
 
 #### UML
 
-:[UML Digram](class03.png)
+[UML Digram](class03.png)
