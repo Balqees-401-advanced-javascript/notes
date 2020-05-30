@@ -1,6 +1,6 @@
 /* eslint-disable indent */
 'use strict';
-require('@code-fellows/supergoose');
+require('@code-fellows/supergoose');//make virtual DB and delete it after test to not effect the real database
 const Input = require('../lib/input.js');
 const minimist = require('minimist');
 jest.spyOn(console , 'log');

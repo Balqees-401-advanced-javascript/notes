@@ -38,4 +38,9 @@ describe('Notes Module', ()=> {
         expect(validNote.execute({action:'update'})).toBeTruthy(); 
     });
 
+    it('allMethode.create() Action update', ()=> {
+        let validNote= new Notes();
+        validNote.execute({action:'gg'});
+        expect(validNote.execute({action:'gg'})).toBeFalsy(); 
+    });
 });
