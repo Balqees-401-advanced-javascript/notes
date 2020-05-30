@@ -36,3 +36,32 @@
 #### UML
 
 [UML Digram](class04.png)
+
+
+# LAB - Class 05
+## Project:Advanced Mongo/Mongoose
+
+
+### Links and Resources
+
+- [submission PR](https://github.com/Balqees-401-advanced-javascript/notes/pull/4)
+
+
+#### How to initialize/run your application 
+      
+      -  node notes.js -a/--add 'note' --category 'category'
+      -  node notes.js -list
+      -  node notes.js -list 'category'
+      -  node notes.js --delete 'id'
+      -  node notes.js --update 'id'  'new Note'
+
+#### Tests
+
+      - npm test
+      - npm test -- fileName
+       
+
+
+#### UML
+
+[UML Digram](class07.png)
