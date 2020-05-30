@@ -44,7 +44,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/Balqees-401-advanced-javascript/notes/pull/2)
+- [submission PR](https://github.com/Balqees-401-advanced-javascript/notes/pull/4)
 
 
 #### How to initialize/run your application 
